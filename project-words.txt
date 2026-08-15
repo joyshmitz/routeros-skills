@@ -43,6 +43,7 @@ cpmagic
 cptype
 CPUID
 cret
+crl
 crossref
 CRS
 Customisation
@@ -67,10 +68,12 @@ Ecsrp
 EDK
 EFI
 elif
+env
 envlist
 envlists
 epan
 etherboot
+euo
 evl
 fasttrack
 fasttracked
